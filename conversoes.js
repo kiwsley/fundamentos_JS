@@ -11,3 +11,4 @@ console.log (Number(numeroString) + numero)
 
 //conversão explícita
 
+
